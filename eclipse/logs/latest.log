@@ -1,0 +1,60 @@
+[16:19:26] [Client thread/INFO]: Setting user: Player950
+[16:19:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:19:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[16:19:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:19:31] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[16:19:31] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:19:31] [Thread-6/INFO]: OpenAL initialized.
+[16:19:31] [Sound Library Loader/INFO]: Sound engine started
+[16:19:32] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:19:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[16:19:33] [Client thread/INFO]: SoundSystem shutting down...
+[16:19:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:19:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:19:33] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[16:19:33] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:19:33] [Thread-8/INFO]: OpenAL initialized.
+[16:19:34] [Sound Library Loader/INFO]: Sound engine started
+[16:19:34] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:19:50] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[16:19:50] [Server thread/INFO]: Generating keypair
+[16:19:50] [Server thread/INFO]: Converting map!
+[16:19:50] [Server thread/INFO]: Scanning folders...
+[16:19:50] [Server thread/INFO]: Total conversion count is 0
+[16:19:51] [Server thread/INFO]: Preparing start region for level 0
+[16:19:52] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:19:52] [Server thread/INFO]: Player950[local:E:48d83b64] logged in with entity id 7 at (490.5, 4.0, -28.5)
+[16:19:52] [Server thread/INFO]: Player950 joined the game
+[16:19:58] [Server thread/INFO]: Saving and pausing game...
+[16:19:58] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:19:58] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:19:58] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:20:20] [Server thread/INFO]: Changing view distance to 16, from 12
+[16:20:20] [Server thread/INFO]: Saving and pausing game...
+[16:20:20] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:20:20] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:20:20] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:20:22] [Server thread/INFO]: Player950 has just earned the achievement [Taking Inventory]
+[16:20:22] [Client thread/INFO]: [CHAT] Player950 has just earned the achievement [Taking Inventory]
+[16:20:24] [Server thread/INFO]: Saving and pausing game...
+[16:20:24] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:20:24] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:20:24] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:20:26] [Server thread/INFO]: Saving and pausing game...
+[16:20:26] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:20:26] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:20:26] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:20:29] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+[16:20:59] [Server thread/INFO]: Saving and pausing game...
+[16:20:59] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:20:59] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:20:59] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:21:00] [Server thread/INFO]: Stopping server
+[16:21:00] [Server thread/INFO]: Saving players
+[16:21:00] [Server thread/INFO]: Saving worlds
+[16:21:00] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:21:00] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:21:00] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:21:01] [Client thread/INFO]: Stopping!
+[16:21:01] [Client thread/INFO]: SoundSystem shutting down...
+[16:21:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
