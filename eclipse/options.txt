@@ -10,7 +10,7 @@ bobView:true
 anaglyph3d:false
 maxFps:60
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -63,7 +63,7 @@ key_key.jump:57
 key_key.sneak:42
 key_key.drop:16
 key_key.inventory:18
-key_key.chat:20
+key_key.chat:28
 key_key.playerlist:15
 key_key.pickItem:-98
 key_key.command:53

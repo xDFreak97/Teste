@@ -1,21 +1,59 @@
-[16:27:52] [Client thread/INFO]: Setting user: Player551
-[16:27:54] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:27:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[16:27:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:27:58] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[16:27:58] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:27:58] [Thread-7/INFO]: OpenAL initialized.
-[16:27:58] [Sound Library Loader/INFO]: Sound engine started
-[16:27:59] [Client thread/INFO]: Created: 512x512 textures-atlas
-[16:28:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[16:28:00] [Client thread/INFO]: SoundSystem shutting down...
-[16:28:00] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:28:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:28:00] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[16:28:00] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:28:00] [Thread-9/INFO]: OpenAL initialized.
-[16:28:00] [Sound Library Loader/INFO]: Sound engine started
-[16:28:01] [Client thread/INFO]: Created: 512x512 textures-atlas
-[16:28:16] [Client thread/INFO]: Stopping!
-[16:28:16] [Client thread/INFO]: SoundSystem shutting down...
-[16:28:16] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:50:52] [Client thread/INFO]: Setting user: Player951
+[16:50:53] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:50:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:TestMod
+[16:50:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:50:57] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[16:50:57] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:50:57] [Thread-7/INFO]: OpenAL initialized.
+[16:50:58] [Sound Library Loader/INFO]: Sound engine started
+[16:50:59] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:51:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:TestMod
+[16:51:00] [Client thread/INFO]: SoundSystem shutting down...
+[16:51:00] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:51:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:51:00] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[16:51:00] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:51:00] [Thread-9/INFO]: OpenAL initialized.
+[16:51:00] [Sound Library Loader/INFO]: Sound engine started
+[16:51:01] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:51:45] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[16:51:45] [Server thread/INFO]: Generating keypair
+[16:51:46] [Server thread/INFO]: Preparing start region for level 0
+[16:51:46] [Server thread/INFO]: Changing view distance to 16, from 10
+[16:51:47] [Server thread/INFO]: Player951[local:E:dad03862] logged in with entity id 52 at (768.330702603286, 5.511496119579439, 198.51943746315897)
+[16:51:47] [Server thread/INFO]: Player951 joined the game
+[16:51:50] [Server thread/INFO]: Player951 has just earned the achievement [Taking Inventory]
+[16:51:50] [Client thread/INFO]: [CHAT] Player951 has just earned the achievement [Taking Inventory]
+[16:52:39] [Server thread/INFO]: Saving and pausing game...
+[16:52:39] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:52:39] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:52:39] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:52:58] [Server thread/INFO]: Player951 fell out of the world
+[16:52:58] [Server thread/INFO]: [Player951: Killed Player951]
+[16:52:58] [Client thread/INFO]: [CHAT] Player951 fell out of the world
+[16:52:58] [Client thread/INFO]: [CHAT] Killed Player951
+[16:53:04] [Server thread/INFO]: Saving and pausing game...
+[16:53:04] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:53:04] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:53:04] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:53:05] [Server thread/INFO]: Saving and pausing game...
+[16:53:05] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:53:05] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:53:05] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:53:30] [Server thread/INFO]: Saving and pausing game...
+[16:53:30] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:53:30] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:53:30] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:53:31] [Server thread/INFO]: Saving and pausing game...
+[16:53:31] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:53:31] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:53:31] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:53:32] [Server thread/INFO]: Stopping server
+[16:53:32] [Server thread/INFO]: Saving players
+[16:53:32] [Server thread/INFO]: Saving worlds
+[16:53:32] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Overworld
+[16:53:32] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/Nether
+[16:53:32] [Server thread/INFO]: Saving chunks for level 'Test Superflat'/The End
+[16:53:33] [Client thread/INFO]: Stopping!
+[16:53:33] [Client thread/INFO]: SoundSystem shutting down...
+[16:53:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
